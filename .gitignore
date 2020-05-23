@@ -1,6 +1,4 @@
-node_modules
-scripts/constants/Config.js
-server/config
-server/public/css
-server/public/js
+.DS_Store
+dist
 npm-debug.log
+node_modules
